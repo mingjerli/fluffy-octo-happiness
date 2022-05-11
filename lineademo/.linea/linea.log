@@ -1,0 +1,7 @@
+[{"event_type": "SaveEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"side_effect": "", "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
+[{"event_type": "ToPipelineEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"engine": "SCRIPT", "artifact_count": 1, "has_task_dependency": true, "has_config": true, "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
+[{"event_type": "ToPipelineEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"engine": "AIRFLOW", "artifact_count": 1, "has_task_dependency": true, "has_config": true, "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
+[{"event_type": "LibImportEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"name": "pandas", "version": "1.3.5", "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
+[{"event_type": "LibImportEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"name": "sklearn.decomposition", "version": "1.0.2", "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
+[{"event_type": "LibImportEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"name": "sklearn.datasets", "version": "1.0.2", "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
+[{"event_type": "LibImportEvent", "user_id": "98cd605a-3cde-4896-a121-209dc00e7747", "event_properties": {"name": "sklearn.discriminant_analysis", "version": "1.0.2", "py_version": "3.9.11", "lineapy_version": "0.0.5"}}]
